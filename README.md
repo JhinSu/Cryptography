@@ -1,16 +1,14 @@
 # Cryptography
-Just small scripts made for educational purposes
+Just small scripts made for educational purposes. There's not going to be anything revolutionary really here.
 
-There's not going to be anything revolutionary really here.
+  Caesar [Done]
 
-Caesar [Done]
+  Affine
 
-Affine
+  Substitution
 
-Substitution
+  Vigenere
 
-Vigenere
+  Playfair
 
-Playfair
-
-Hill
+  Hill
