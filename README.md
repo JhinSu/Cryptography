@@ -1,5 +1,5 @@
 # Cryptography
-Just small scripts made for educational purposes. There's not going to be anything revolutionary really here.
+Just small scripts made for fun. There's not going to be anything special here.
 
 	 Caesar [Done]
 
